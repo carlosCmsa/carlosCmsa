@@ -5,7 +5,6 @@
 - #### 🎓 Técnico em Desenvolvimento de Sistemas
 - #### 📖 Em contínuo aprendizado
 
-</br>
 
 <!-- skills -->
 ## 🛠️ Ferramentas
