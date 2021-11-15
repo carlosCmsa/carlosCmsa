@@ -3,14 +3,14 @@
 
 
 <!-- skills -->
-## Tools 🛠️
+## 🛠️ Tools 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Mysql](https://img.shields.io/badge/MySQL-993399?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git&logoColor=white)](#)
 
 <!-- analytics -->
@@ -18,7 +18,7 @@
 
 
 <!-- links -->
-## Contacts ✉️
+## ✉️ Contacts 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscmsa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmiguel.with@gmail.com)
