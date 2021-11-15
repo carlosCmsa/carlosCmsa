@@ -4,6 +4,7 @@
 - #### 📚 Cursando Bacharel em Ciência da Computação
 - #### 🎓 Técnico em Desenvolvimento de Sistemas
 - #### 📖 Em contínuo aprendizado
+
 </br>
 
 <!-- skills -->
