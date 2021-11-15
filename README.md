@@ -1,5 +1,9 @@
 # Hi, I'm Carlos 👋
 
+- 🌐 Desenvolvedor Web Junior em formação
+- 📚 Cursando Bacharel em Ciência da Computação
+- 🎓 Técnico em Desenvolvimento de Sistemas
+- 📖 Em contínuo aprendizado
 
 
 <!-- skills -->
