@@ -1,10 +1,11 @@
-# Oi, Eu sou o Carlos 👋
+# Olá, Eu sou o Carlos 👋
 
 - #### 🌐 Desenvolvedor Web Junior em formação
 - #### 📚 Cursando Bacharel em Ciência da Computação
 - #### 🎓 Técnico em Desenvolvimento de Sistemas
 - #### 📖 Em contínuo aprendizado
 
+</br>
 
 <!-- skills -->
 ## 🛠️ Ferramentas
@@ -20,8 +21,9 @@
 <!-- analytics -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosCmsa&layout=compact)](https://github.com/carlosCmsa/github-readme-stats)
 
+</br>
 
-<!-- links -->
+<!-- contatos -->
 ## ✉️ Contatos 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscmsa/)
