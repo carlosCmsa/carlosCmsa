@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://github.com/carlosCmsa/assets/blob/master/carlosCmsa/gif_welcome.gif"></h1>
 
 
+# Olá, Eu sou o Carlos 👋
+
 - #### 🌐 Desenvolvedor Web Junior em formação
 - #### 📚 Cursando Bacharel em Ciência da Computação
 - #### 🎓 Técnico em Desenvolvimento de Sistemas
