@@ -2,7 +2,7 @@
 
 ## 📃 Sobre
 
-- #### 🌐 Desenvolvedor Web Junior em formação
+- #### 🌐 Desenvolvedor Back-end Junior em formação
 - #### 📚 Cursando Bacharel em Ciência da Computação
 - #### 🎓 Técnico em Desenvolvimento de Sistemas
 - #### 📖 Em contínuo aprendizado
