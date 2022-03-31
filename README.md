@@ -12,14 +12,18 @@
 
 ## 🛠️ Ferramentas
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Javascript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white)](#)
-[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Mysql](https://img.shields.io/badge/MySQL-993399?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)](#)
+[![Javascript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-43853D?style=for-the-badge)](#)
+[![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge)](#)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-00FFFF?style=for-the-badge)](#)
+[![JUnit 5](https://img.shields.io/badge/JUnit%205-FFFF00?style=for-the-badge)](#)
+[![Mockito](https://img.shields.io/badge/Mockito-00FF00?style=for-the-badge)](#)
+[![Mysql](https://img.shields.io/badge/MySQL-993399?style=for-the-badge)](#)
+[![Orable DB](https://img.shields.io/badge/Oracle%20DB-98FB98?style=for-the-badge)](#)
+[![Git](https://img.shields.io/badge/Git-FF5722?style=for-the-badge)](#)
 
 <!-- analytics -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosCmsa&layout=compact)](https://github.com/carlosCmsa/github-readme-stats)
