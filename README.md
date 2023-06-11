@@ -2,9 +2,9 @@
 
 ## 📃 Sobre
 
-- #### 🌐 Desenvolvedor Back-end Junior em formação
+- #### 🌐 Desenvolvedor Back-end Java
 - #### 📚 Cursando Bacharel em Ciência da Computação
-- #### 🎓 Técnico em Desenvolvimento de Sistemas
+- #### 🎓 Formação técnica em Desenvolvimento de Sistemas
 - #### 📖 Em contínuo aprendizado
 
 </br>
