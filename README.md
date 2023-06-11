@@ -15,7 +15,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)](#)
 [![Javascript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-43853D?style=for-the-badge)](#)
 [![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge)](#)
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-00FFFF?style=for-the-badge)](#)
