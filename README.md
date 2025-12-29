@@ -3,9 +3,9 @@
 ### About me
 
 
-* 🎓 Cursando Pós Graduação em **Inteligência Artificial aplicada ao Desenvolvimento de Software** pela **Faculdade de Informática e Administração Paulista (FIAP)**.
+* 🤖 Cursando Pós Graduação em **Inteligência Artificial aplicada ao Desenvolvimento de Software** pela **Faculdade de Informática e Administração Paulista (FIAP)**.
 * 🎓 Bacharel em **Ciência da Computação** pelo **Centro Universitários das Faculdades Metropolitanas Unidas (FMU)**.
-* 🎓 Técnico em **Desenvolvimento de Sistemas** pela **Escola Técnica Estadual (ETEC)**.
+* 💻 Técnico em **Desenvolvimento de Sistemas** pela **Escola Técnica Estadual (ETEC)**.
 
 ---
 
