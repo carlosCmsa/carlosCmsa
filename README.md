@@ -1,6 +1,6 @@
 ## Hi there, I'm Carlos Miguel 👋
 
-### About me
+### 👤 About me
 
 
 * 🤖 Cursando Pós Graduação em **Inteligência Artificial aplicada ao Desenvolvimento de Software** pela **Faculdade de Informática e Administração Paulista (FIAP)**.
@@ -9,7 +9,7 @@
 
 ---
 
-### Tech Stack & Tools 🛠️
+### 🛠️ Tech Stack & Tools 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,10 +23,10 @@
 
 ---
 
-### How to reach me 📫
+### 📫 How to reach me 
 
 <p>
-  <a href="https://www.linkedin.com/in/gabideutner/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlosCmsa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:carlosmiguel.with@gmail.com">
