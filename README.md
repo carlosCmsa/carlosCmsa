@@ -46,6 +46,9 @@ Sou um desenvolvedor de software atuando profissionalmente há mais de 4 anos no
   <a href="mailto:carlosmiguel.with@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="mailto:carlosmiguel.with@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0B9DFF?style=for-the-badge">
+  </a>
 </p>
 
 
