@@ -14,25 +14,25 @@ Sou um desenvolvedor de software atuando profissionalmente há mais de 4 anos no
 ### 🛠️ Tech Stack & Tools 
 
 <p align="left">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge" alt="Java" />
-    <img src="https://img.shields.io/badge/spring_boot-%23ED8B00.svg?style=for-the-badge" alt="Spring" />
-    <img src="https://img.shields.io/badge/quarkus_framework-%ED8B00.svg?style=for-the-badge" alt="Quarkus" />
-    <img src="https://img.shields.io/badge/apache_maven-%23ED8B00.svg?style=for-the-badge" alt="Apache Maven" />
-    <img src="https://img.shields.io/badge/hibernate-%23ED8B00.svg?style=for-the-badge" alt="Hibernate" />
-    <img src="https://img.shields.io/badge/junit_5-%23ED8B00.svg?style=for-the-badge" alt="JUnit" />
-    <img src="https://img.shields.io/badge/mockito-%23ED8B00.svg?style=for-the-badge" alt="Mockito" />
-    <img src="https://img.shields.io/badge/oracle_db-%23ED8B00.svg?style=for-the-badge" alt="Oracle DB" />
-    <img src="https://img.shields.io/badge/ibm_db2-%23ED8B00.svg?style=for-the-badge" alt="IBM DB2" />
-    <img src="https://img.shields.io/badge/html-%23ED8B00.svg?style=for-the-badge" alt="HTML" />
-    <img src="https://img.shields.io/badge/css-%23ED8B00.svg?style=for-the-badge" alt="CSS" />
-    <img src="https://img.shields.io/badge/angular_framework-23ED8B00.svg?style=for-the-badge" alt="Angular Framework" />
-    <img src="https://img.shields.io/badge/git-23ED8B00.svg?style=for-the-badge" alt="Git" />
-    <img src="https://img.shields.io/badge/docker-9C27F5.svg?style=for-the-badge" alt="Docker" />
-    <img src="https://img.shields.io/badge/javascript-F7F552.svg?style=for-the-badge" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/typecript-27F527.svg?style=for-the-badge" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/amazon_web_services-F5AD27.svg?style=for-the-badge" alt="Amazon Web Services" />
-    <img src="https://img.shields.io/badge/jenkins-F54927.svg?style=for-the-badge" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/sonarqube-2749F5.svg?style=for-the-badge" alt="SonarQube" />
+    <img src="https://img.shields.io/badge/java-EB3324.svg?style=for-the-badge" alt="Java" />
+    <img src="https://img.shields.io/badge/spring_boot-82D124.svg?style=for-the-badge" alt="Spring" />
+    <img src="https://img.shields.io/badge/quarkus_framework-3282F6.svg?style=for-the-badge" alt="Quarkus" />
+    <img src="https://img.shields.io/badge/apache_maven-551881.svg?style=for-the-badge" alt="Apache Maven" />
+    <img src="https://img.shields.io/badge/hibernate-817F26.svg?style=for-the-badge" alt="Hibernate" />
+    <img src="https://img.shields.io/badge/junit_5-EB3324.svg?style=for-the-badge" alt="JUnit" />
+    <img src="https://img.shields.io/badge/mockito-97F916.svg?style=for-the-badge" alt="Mockito" />
+    <img src="https://img.shields.io/badge/oracle_db-B50505.svg?style=for-the-badge" alt="Oracle DB" />
+    <img src="https://img.shields.io/badge/ibm_db2-50B531.svg?style=for-the-badge" alt="IBM DB2" />
+    <img src="https://img.shields.io/badge/html-F59500.svg?style=for-the-badge" alt="HTML" />
+    <img src="https://img.shields.io/badge/css-0023F5.svg?style=for-the-badge" alt="CSS" />
+    <img src="https://img.shields.io/badge/angular_framework-D42E20.svg?style=for-the-badge" alt="Angular Framework" />
+    <img src="https://img.shields.io/badge/git-FF6D02.svg?style=for-the-badge" alt="Git" />
+    <img src="https://img.shields.io/badge/docker-3282F6.svg?style=for-the-badge" alt="Docker" />
+    <img src="https://img.shields.io/badge/javascript-FFF72C.svg?style=for-the-badge" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/typecript-3282F6.svg?style=for-the-badge" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/amazon_web_services-EB9611.svg?style=for-the-badge" alt="Amazon Web Services" />
+    <img src="https://img.shields.io/badge/jenkins-75163F.svg?style=for-the-badge" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/sonarqube-16417C.svg?style=for-the-badge" alt="SonarQube" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Sou um desenvolvedor de software atuando profissionalmente há mais de 4 anos no
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:carlosmiguel.with@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
