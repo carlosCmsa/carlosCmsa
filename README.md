@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="./assets/welcome_github_v5.gif">
-</p>
+## Hello, I'm Carlos 👋
 
 ### 👤 About me
 Sou um desenvolvedor de software atuando profissionalmente há mais de 4 anos principalmente no desenvolvimento de soluções Java. Durante este período trabalhei em grande parte do tempo com os frameworks Quarkus e Spring, sendo tanto na construção de novos serviços quanto no suporte e manutenção de sistemas já existentes.
