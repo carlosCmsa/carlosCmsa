@@ -1,5 +1,9 @@
 ## Hi there, I'm Carlos Miguel 👋
 
+<p align="center">
+    <img src="./assets/welcome_github_v5.gif">
+</p>
+
 ### 👤 About me
 
 
