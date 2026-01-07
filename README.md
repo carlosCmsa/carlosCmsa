@@ -13,7 +13,7 @@ Sou um desenvolvedor de software atuando profissionalmente há mais de 4 anos pr
 
 <p align="left">
     <img src="https://img.shields.io/badge/java-EB3324.svg?style=for-the-badge" alt="Java" />
-    <img src="https://img.shields.io/badge/spring_boot-82D124.svg?style=for-the-badge" alt="Spring" />
+    <img src="https://img.shields.io/badge/spring_framework-82D124.svg?style=for-the-badge" alt="Spring Framework" />
     <img src="https://img.shields.io/badge/quarkus_framework-3282F6.svg?style=for-the-badge" alt="Quarkus" />
     <img src="https://img.shields.io/badge/apache_maven-551881.svg?style=for-the-badge" alt="Apache Maven" />
     <img src="https://img.shields.io/badge/hibernate-817F26.svg?style=for-the-badge" alt="Hibernate" />
