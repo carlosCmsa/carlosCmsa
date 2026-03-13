@@ -14,7 +14,6 @@
 
 Sou um desenvolvedor de software atuando profissionalmente há mais de 3 anos no desenvolvimento de soluções Java. Durante este período tenho trabalhado principalmente com os frameworks Quarkus e Spring, sendo tanto na construção de novos serviços quanto no suporte e manutenção de sistemas já existentes.
 
-* 🤖 Cursando Pós Graduação em **Inteligência Artificial aplicada ao Desenvolvimento de Software** pela **Faculdade de Informática e Administração Paulista (FIAP)**.
 * 🎓 Bacharel em **Ciência da Computação** pelo **Centro Universitários das Faculdades Metropolitanas Unidas (FMU)**.
 * 💻 Técnico em **Desenvolvimento de Sistemas** pela **Escola Técnica Estadual (ETEC)**.
 
